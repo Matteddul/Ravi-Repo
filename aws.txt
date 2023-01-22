@@ -23,6 +23,6 @@ class GFG {
 		// Display the integer
 		System.out.println("Entered integer is: "
 						+ num);
-	}
+	}Hello welcome to the world
 }
 
